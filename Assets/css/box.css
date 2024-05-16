@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fullScreenBox{
+    width: 100vw;
+    height: 100vh;
+    background: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headerText{
+    font-size: 4rem;
+}
